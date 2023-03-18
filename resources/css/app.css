@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.form-control{
+    color:black;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__display{
+    color: black;
+}
+input.button {
+    background-color: cornflowerblue;
+    padding: 15px 15px 15px 15px;
+}
